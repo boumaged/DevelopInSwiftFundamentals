@@ -35,7 +35,7 @@ When you've completed all the labs, `git add`, `git commit`, and `git push origi
 
 
 
-Make sure the base repository is `mhanlon/DevelopInSwiftFundamentals` and the base is `master`, like so:
+Make sure the base repository is `boumaged/DevelopInSwiftFundamentals` and the base is `master`, like so:
 
 ![](images/pull-request-base.png)
 
